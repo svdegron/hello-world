@@ -1,4 +1,4 @@
 # hello-world
-This is short description
+This is short description.
 Hey, I'm Alex.
 That's all folks!
